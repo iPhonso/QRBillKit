@@ -1,0 +1,15 @@
+{
+  "originHash" : "5b8e7ce45b7049416b201879f730fa3a3f287f951300748e1e27f45ae9012bd5",
+  "pins" : [
+    {
+      "identity" : "qrbillkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iPhonso/QRBillKit.git",
+      "state" : {
+        "revision" : "e461b16a138ea94c497d9bbe3771a5c9c453b7f3",
+        "version" : "0.8.0"
+      }
+    }
+  ],
+  "version" : 3
+}
