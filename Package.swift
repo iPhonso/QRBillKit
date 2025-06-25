@@ -16,8 +16,8 @@ let package = Package(
         // .binaryTarget(name: "QRBillKit", path: "QRBillKit.zip"),
         .binaryTarget(
             name: "QRBillKit",
-            url: "https://github.com/iPhonso/QRBillKit/blob/main/QRBillKit.zip",
-            checksum: "7e336298db62ff7c35d6563dba8c9a8eac2d91a72cd9209c3a1b808c79d00f05"
+            url: "https://github.com/iPhonso/QRBillKit/raw/refs/heads/main/QRBillKit.zip",
+            checksum: "ef7c53ae011eff0f679f24d0b4db496f0ec631250b5eadcb43b8045d6af84c61"
         )
     ]
 )
